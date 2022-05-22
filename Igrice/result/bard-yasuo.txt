@@ -1,0 +1,2 @@
+bard 0
+yasuo 1
